@@ -1,6 +1,4 @@
-Certainly! Here’s the `README.md` content in Markdown format:
 
-```markdown
 # HTML to PDF Script
 
 This script converts an HTML file to a PDF using Chrome's headless mode. The script takes two parameters:
@@ -106,4 +104,3 @@ The script performs the following:
 
 2. **Error: Invalid file extension**
    - Ensure that the file paths end with `.pdf` and `.html` respectively.
-```
